@@ -1,0 +1,19 @@
+py -m pip install numpy
+py -m pip install scipy
+py -m pip install scikit-learn
+py -m pip install matplotlib
+
+
+
+py -m pip install numpy
+    数値計算のライブラリ
+        数値計算処理が入っている
+py -m pip install scipy
+    科学計算のライブラリ
+        ↓が計算するときに使う計算処理が入っている
+py -m pip install scikit-learn
+    機械学習のライブラリ
+        学習用の画像データを使って学習し、与えられた画像を見て答えを予測する
+py -m pip install matplotlib
+    グラフ表示のライブラリ
+
