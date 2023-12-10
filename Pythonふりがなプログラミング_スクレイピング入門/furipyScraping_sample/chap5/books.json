@@ -1,0 +1,978 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 11,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "khU7EAAAQBAJ",
+      "etag": "iuIAbAKCjJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/khU7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Pythonふりがなプログラミング 増補改訂版",
+        "authors": [
+          "株式会社ビープラウド",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2021-07-26",
+        "description": "人気シリーズ「Pythonふりがなプログラミング」を大きくして読みやすく、内容を充実させて改訂しました。「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、まったく新しいPyhton（パイソン）の入門書です。本書内に登場するプログラムの読み方をすべて載せ、さらに、漢文訓読の手法を取り入れ、読み下し文を用意。プログラムの1行1行が何を意味していて、どう動くのかが理解できます。この新しいアプローチで「プログラムが読めないから、自分がいま何をしているのかわからない」といったプログラミング入門者が途中で挫折してしまう原因を解決しました。さらにこの増補改訂版では、データ分析への初めの一歩を踏み出すための章を追加しました。統計情報とグラフ、2つの観点からPythonによるデータ分析の一端を体験できます。 ■本書はこんな人におすすめ ・Pythonの基本を身につけたい人 ・過去にプログラミングの入門書で挫折してしまった人 ・プログラマーやエンジニアを目指す人 ・仕事でPythonを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295011743"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295011746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=khU7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=khU7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=khU7EAAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=khU7EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=khU7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2178,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1960,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=khU7EAAAQBAJ&rdid=book-khU7EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2178000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1960000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Python%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA-sample-pdf.acsm?id=khU7EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=khU7EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "人気シリーズ「Pythonふりがなプログラミング」を大きくして読みやすく、内容を充実させて改訂しました。「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mSJvDwAAQBAJ",
+      "etag": "9Z2UUuqeihc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mSJvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Excel VBAふりがなプログラミング",
+        "authors": [
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2018-09-21",
+        "description": "「マクロの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいExcel VBAの入門書です。 本書内に登場するマクロの読み方をすべて載せ、さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 マクロの1行1行が何を意味していて、どう動くのかが理解できます。 この新しいアプローチで「自分がいま何をしているのかわからない」といった Excel VBA入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、マクロを考える応用問題も用意しているため、 しっかりExcel VBAの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・Excel VBAとマクロの基本を身につけたい人 ・過去にExcel VBAやマクロの入門書で挫折してしまった人 ・意味不明のままマクロをコピーして使っていた人 ・仕事でマクロを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295004813"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295004812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mSJvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mSJvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=mSJvDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mSJvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mSJvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1826,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1643,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mSJvDwAAQBAJ&rdid=book-mSJvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1826000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1643000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Excel_VBA%E3%81%B5%E3%82%8A%E3%81%8C-sample-pdf.acsm?id=mSJvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mSJvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「マクロの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいExcel VBAの入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4gdgDwAAQBAJ",
+      "etag": "IhjgMVfWw7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4gdgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Pythonふりがなプログラミング",
+        "authors": [
+          "株式会社ビープラウド",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2018-06-22",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいPyhton（パイソン）の入門書です。 本書内に登場するプログラムの読み方をすべて載せ、さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、どう動くのかが理解できます。 この新しいアプローチで「プログラムが読めないから、自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、プログラムを考える応用問題も用意しているため、 しっかりPythonの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・Pythonの基本を身につけたい人 ・過去にプログラミングの入門書で挫折してしまった人 ・プログラマーやエンジニアを目指す人 ・仕事でPythonを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295003861"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295003867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4gdgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4gdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=4gdgDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4gdgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4gdgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1826,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1643,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4gdgDwAAQBAJ&rdid=book-4gdgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1826000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1643000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Python%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA-sample-pdf.acsm?id=4gdgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4gdgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいPyhton（パイソン）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AzaGDwAAQBAJ",
+      "etag": "5/CmrOZsGGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AzaGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Unity C#ふりがなプログラミング",
+        "authors": [
+          "安原祐二",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2019-01-25",
+        "description": "「スクリプトの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいUnityで使われるC#（シーシャープ）の入門書です。 本書内に登場するスクリプトの読み方をすべて載せ、さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 スクリプトの1行1行が何を意味していて、どう動くのかが理解できます。 この新しいアプローチで「自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、スクリプトを考える応用問題も用意しているため、 しっかりUnityで使われるC#の基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・Unityで使われるC#の基本を身につけたい人 ・過去にUnityやC#の入門書で挫折してしまった人 ・意味不明のままスクリプトをコピーして使っていた人 ・プログラマーやエンジニアを目指す人 ・仕事でUnityのC#を活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295005575"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295005576"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AzaGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AzaGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=AzaGDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AzaGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AzaGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2200,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AzaGDwAAQBAJ&rdid=book-AzaGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2200000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Unity_C_%E3%81%B5%E3%82%8A%E3%81%8C-sample-pdf.acsm?id=AzaGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AzaGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「スクリプトの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいUnityで使われるC#（シーシャープ）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ciiwDwAAQBAJ",
+      "etag": "GoYTgDMl2m8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ciiwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める UnityふりがなKidsプログラミング ゲームを作りながら楽しく学ぼう！",
+        "authors": [
+          "LITALICOワンダー",
+          "リブロワークス",
+          "ア・メリカ"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2019-09-19",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で 究極のやさしさを目指したふりがなプログラミングシリーズに ゲームを作りながら楽しくプログラミングが学べる一冊が登場！ 「ブロックくずし」や「迷路で追いかけっこ」「FPS」といったゲームを作りながら、 Unityの使い方やプログラミングの基本が身につきます。 もちろん、従来のふりがなプログラミングシリーズと同様に、 本書内に登場するプログラムの読み方をすべて載せ、 さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、どう動くのかが理解できます。 さらに本文にもすべてルビをふっているので、小学5年生くらいから読むことができます。 ■本書はこんな人におすすめ ・はじめてUnityやプログラミングに触れる人 ・過去にUnityの入門書で挫折してしまった人 ・小学校高学年～中学生、高校生 ■本書の構成 チャプター1 Unity最初の一歩 チャプター2 ブロックくずしを作ろう チャプター3 続ブロックくずしを作ろう ～スクリプトの秘密～ チャプター4 続々ブロックくずしを作ろう ～完成への道～ チャプター5 迷路で追いかけっこゲームを作ろう チャプター6 FPSゲームを作ろう 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295007395"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295007390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ciiwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ciiwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=ciiwDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ciiwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ciiwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2530,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 2277,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ciiwDwAAQBAJ&rdid=book-ciiwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2530000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 2277000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Unity%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AAK-sample-pdf.acsm?id=ciiwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ciiwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で 究極のやさしさを目指したふりがなプログラミングシリーズに ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e8q2DwAAQBAJ",
+      "etag": "qQgf9FJuMOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e8q2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める PHPふりがなプログラミング",
+        "authors": [
+          "ピクシブ株式会社",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2019-10-25",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいPHP（ピーエイチピー）の入門書です。 本書内に登場するプログラムの読み方をすべて載せ、 さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、 どう動くのかが理解できます。 この新しいアプローチで「自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、 プログラムを考える応用問題も用意しているため、 しっかりPHPの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・PHPの基礎を身につけたい人 ・過去にPHPの入門書で挫折してしまった人 ・プログラマーやエンジニア、Web制作者を目指す人 ・仕事でPHPを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295007678"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295007676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e8q2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e8q2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=e8q2DwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e8q2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e8q2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2200,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e8q2DwAAQBAJ&rdid=book-e8q2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2200000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_PHP%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%97-sample-pdf.acsm?id=e8q2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e8q2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいPHP（ピーエイチピー）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3AdgDwAAQBAJ",
+      "etag": "r2BMjzKEyHk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3AdgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める JavaScriptふりがなプログラミング",
+        "authors": [
+          "及川卓也",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2018-06-22",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいJavaScript（ジャバスクリプト）の入門書です。 本書内に登場するプログラムの読み方をすべて載せ、さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、どう動くのかが理解できます。 この新しいアプローチで「プログラムが読めないから、自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、プログラムを考える応用問題も用意しているため、 しっかりJavaScriptの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・JavaScriptの基本を身につけたい人 ・過去にプログラミングの入門書で挫折してしまった人 ・Web制作者やプログラマー、エンジニアを目指す人 ・仕事でJavaScriptを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295003854"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295003859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3AdgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3AdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=3AdgDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3AdgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3AdgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1826,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1643,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3AdgDwAAQBAJ&rdid=book-3AdgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1826000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1643000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_JavaScript%E3%81%B5%E3%82%8A-sample-pdf.acsm?id=3AdgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3AdgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で究極のやさしさを目指した、 まったく新しいJavaScript（ジャバスクリプト）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s2jXDwAAQBAJ",
+      "etag": "4+wort5+7gI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s2jXDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Javaふりがなプログラミング",
+        "authors": [
+          "谷本 心",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2020-03-19",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいJava（ジャバ）の入門書です。 本書内に登場するプログラムの読み方をすべて載せ、 さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、 どう動くのかが理解できます。 この新しいアプローチで「自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、 プログラムを考える応用問題も用意しているため、 しっかりJavaの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・Javaの基礎を身につけたい人 ・過去にJavaの入門書で挫折してしまった人 ・プログラマーやエンジニアを目指す人 ・仕事でJavaを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295008552"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295008559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s2jXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s2jXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=s2jXDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s2jXDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s2jXDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2200,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s2jXDwAAQBAJ&rdid=book-s2jXDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2200000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Java%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA-sample-pdf.acsm?id=s2jXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s2jXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいJava（ジャバ）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PTuPDwAAQBAJ",
+      "etag": "tIa7bxxVkIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PTuPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "スラスラ読める Rubyふりがなプログラミング",
+        "authors": [
+          "高橋征義",
+          "リブロワークス"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2019-03-15",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいRuby（ルビー）の入門書です。 本書内に登場するプログラムの読み方をすべて載せ、 さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、 どう動くのかが理解できます。 この新しいアプローチで「自分がいま何をしているのかわからない」といった プログラミング入門者が途中で挫折してしまう原因を解決しました。 また、実際に手を動かしながら進むだけでなく、 プログラムを考える応用問題も用意しているため、 しっかりRubyの基礎文法を身につけることができます。 ■本書はこんな人におすすめ ・Rubyの基礎を身につけたい人 ・過去にRubyやRuby on Railsの入門書で挫折してしまった人 ・プログラマーやエンジニアを目指す人 ・仕事でRubyを活用してみたい人 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295005902"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295005908"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PTuPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PTuPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=PTuPDwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PTuPDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PTuPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2200,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 1980,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PTuPDwAAQBAJ&rdid=book-PTuPDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2200000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 1980000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9%E8%AA%AD%E3%82%81%E3%82%8B_Ruby%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA-sample-pdf.acsm?id=PTuPDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PTuPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」 という手法で究極のやさしさを目指した、 まったく新しいRuby（ルビー）の入門書です。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fDq-DwAAQBAJ",
+      "etag": "LzJ+fMex/jQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fDq-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "子どもから大人までスラスラ読める JavaScriptふりがなKidsプログラミング ゲームを作りながら楽しく学ぼう！",
+        "authors": [
+          "リブロワークス",
+          "ア・メリカ"
+        ],
+        "publisher": "インプレス",
+        "publishedDate": "2019-11-22",
+        "description": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で 究極のやさしさを目指したふりがなプログラミングシリーズに ゲームを作りながら楽しくプログラミングが学べる一冊が登場！ 「迷路ゲーム」や「チャット風クイズゲーム」「九九の表」といったゲームなどを作りながら、 JavaScriptやプログラミングの基本が身につきます。 もちろん、従来のふりがなプログラミングシリーズと同様に、 本書内に登場するプログラムの読み方をすべて載せ、 さらに、漢文訓読の手法を取り入れ、読み下し文を用意。 プログラムの1行1行が何を意味していて、どう動くのかが理解できます。 さらに本文にもすべてルビをふっているので、小学5年生くらいから読むことができます。 ■本書はこんな人におすすめ ・はじめてJavaScriptやプログラミングに触れる人 ・過去にJavaScriptの入門書で挫折してしまった人 ・小学校高学年～中学生、高校生、大人 ■本書の構成 チャプター1 JavaScript最初の一歩 チャプター2 迷路アドベンチャーを作ろう ～HTML編～ チャプター3 九九の表でJavaScriptを覚えよう チャプター4 チャット風クイズゲームを作ろう チャプター5 迷路アドベンチャーを作ろう ～JavaScript編～ 発行：インプレス",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9784295007838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "4295007838"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fDq-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fDq-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=fDq-DwAAQBAJ&printsec=frontcover&dq=intitle:%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA+inpublisher:%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fDq-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fDq-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2530,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 2277,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fDq-DwAAQBAJ&rdid=book-fDq-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2530000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 2277000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8B%E3%82%89%E5%A4%A7%E4%BA%BA%E3%81%BE%E3%81%A7%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%A9-sample-pdf.acsm?id=fDq-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fDq-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「プログラムの読み方をすべて載せる（ふりがなをふる）」という手法で 究極のやさしさを目指したふりがなプログラミングシリーズに ..."
+      }
+    }
+  ]
+}

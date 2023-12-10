@@ -1,0 +1,27 @@
+.block-news{
+  margin: 3px;
+}
+
+.block-gallery{
+  margin: 3px;
+}
+
+.gallerybox{
+    display: flex;
+  }
+
+.imgbox{
+    margin: 3px;
+ }
+
+.block-usage{
+  margin: 3px;
+}
+
+.info-open{
+    font-family: "arial narrow";
+  }
+
+.info-access{
+  font-family: "arial narrow";
+  }
