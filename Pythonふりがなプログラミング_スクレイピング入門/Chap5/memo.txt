@@ -1,0 +1,40 @@
+スクレイピングはどのサイトでも同じようなやり方で情報を取得できるが、APIはAPIごとによってやりかたが変わってきたりする。
+    WebAPIが提供されているサイトでは基本的にAPIを利用してみよう
+
+使えるサイト
+GoogleBooks
+例：https://books.google.co.jp
+GoogleBooksのAPIドキュメント
+https://developers.google.com/books/docs/overview
+
+GoogleBooksAPIで書籍情報の検索をするには、以下のURLを用いる
+https://www.googleapis.com/books/v1/volumes?q=キーワード+【検索条件】
+    https://www.googleapis.com/books/v1/volumes?q=Python
+    https://www.googleapis.com/books/v1/volumes?q=intitle:ふりがな+inpublisher:インプレス
+    https://www.googleapis.com/books/v1/volumes?q=Python&maxResults=40
+
+主なパラメータ
+intitle
+    書名
+inauthor
+    著者
+inpublisher
+    発行元
+isbn
+    ISBN
+
+パラメータ名が多少間違っていても検索は可能だが、検索の精度が落ちてしまうことが考えられる。
+pythonでこのAPIを使うときにはRequestライブラリを使い、アクセスする
+
+
+
+
+----------------------------------
+selenium
+    ブラウザの動作を自動化できるパッケージ　pip install selenium
+    使うために、ブラウザに接続をするためにドライバが必要になる。
+        Chromeの場合はChromeDriverをインストールする必要があり
+            pip install chromedriver-py==chromeDriverのバージョン
+        https://pypi.org/project/chromedriver-py/120.0.6099.109/
+
+
